@@ -8,8 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Lab01\Task01_ProducerConsumer\Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Lab01\Task01_ProducerConsumer\" />
-    <Folder Include="Lab01\Task02_CommandPattern\" />
   </ItemGroup>
 
 </Project>
